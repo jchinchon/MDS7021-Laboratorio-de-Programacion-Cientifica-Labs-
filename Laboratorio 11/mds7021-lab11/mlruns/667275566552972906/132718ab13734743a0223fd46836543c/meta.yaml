@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jigna/MyGitHub_Proyects/Laboratorios%20MDS7021/mds7021-lab11/mlruns/667275566552972906/132718ab13734743a0223fd46836543c/artifacts
+end_time: 1689133524729
+entry_point_name: ''
+experiment_id: '667275566552972906'
+lifecycle_stage: active
+run_id: 132718ab13734743a0223fd46836543c
+run_name: Random_Forest_parametros_por_defecto
+run_uuid: 132718ab13734743a0223fd46836543c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689133520447
+status: 3
+tags: []
+user_id: jigna
