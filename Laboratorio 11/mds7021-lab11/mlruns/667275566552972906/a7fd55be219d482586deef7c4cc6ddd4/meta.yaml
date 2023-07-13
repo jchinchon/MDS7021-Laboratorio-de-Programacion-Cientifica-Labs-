@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jigna/MyGitHub_Proyects/Laboratorios%20MDS7021/mds7021-lab11/mlruns/667275566552972906/a7fd55be219d482586deef7c4cc6ddd4/artifacts
+end_time: 1689133520437
+entry_point_name: ''
+experiment_id: '667275566552972906'
+lifecycle_stage: active
+run_id: a7fd55be219d482586deef7c4cc6ddd4
+run_name: Regresion_lineal_parametros_por_defecto
+run_uuid: a7fd55be219d482586deef7c4cc6ddd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689133512908
+status: 3
+tags: []
+user_id: jigna

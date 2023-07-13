@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jigna/MyGitHub_Proyects/Laboratorios%20MDS7021/mds7021-lab11/mlruns/667275566552972906/4484624806a14dd099a02a0126d6ba5a/artifacts
+end_time: 1689133550313
+entry_point_name: ''
+experiment_id: '667275566552972906'
+lifecycle_stage: active
+run_id: 4484624806a14dd099a02a0126d6ba5a
+run_name: LightGBM_parametros_por_defecto
+run_uuid: 4484624806a14dd099a02a0126d6ba5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689133546327
+status: 3
+tags: []
+user_id: jigna

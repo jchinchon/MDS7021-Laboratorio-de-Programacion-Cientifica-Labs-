@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jigna/MyGitHub_Proyects/Laboratorios%20MDS7021/mds7021-lab11/mlruns/667275566552972906/d3988bd548f84cd18df1c672ec781551/artifacts
+end_time: 1689133541501
+entry_point_name: ''
+experiment_id: '667275566552972906'
+lifecycle_stage: active
+run_id: d3988bd548f84cd18df1c672ec781551
+run_name: SVR_parametros_por_defecto
+run_uuid: d3988bd548f84cd18df1c672ec781551
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689133524740
+status: 3
+tags: []
+user_id: jigna

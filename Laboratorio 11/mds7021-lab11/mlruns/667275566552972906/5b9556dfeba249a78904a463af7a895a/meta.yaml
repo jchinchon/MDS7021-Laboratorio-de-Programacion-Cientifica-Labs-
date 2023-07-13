@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jigna/MyGitHub_Proyects/Laboratorios%20MDS7021/mds7021-lab11/mlruns/667275566552972906/5b9556dfeba249a78904a463af7a895a/artifacts
+end_time: 1689133546314
+entry_point_name: ''
+experiment_id: '667275566552972906'
+lifecycle_stage: active
+run_id: 5b9556dfeba249a78904a463af7a895a
+run_name: XGBoost_parametros_por_defecto
+run_uuid: 5b9556dfeba249a78904a463af7a895a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689133541510
+status: 3
+tags: []
+user_id: jigna
